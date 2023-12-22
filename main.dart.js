@@ -19014,7 +19014,7 @@ _.fy=a6
 _.go=a7
 _.id=a8
 _.k1=a9},
-akR(){var s,r,q,p,o,n,m=null,l=A.a6R(m,A.acj(B.N,B.h,B.wN),"Rubik",!0),k=A.aC(["/home",new A.a0f(),"/about",new A.a0g()],t.N,t.f_)
+akR(){var s,r,q,p,o,n,m=null,l=A.a6R(m,A.acj(B.N,B.h,B.wN),"PlayfairDisplay",!0),k=A.aC(["/home",new A.a0f(),"/about",new A.a0g()],t.N,t.f_)
 if($.ba==null)A.agY()
 s=$.ba
 s.toString
